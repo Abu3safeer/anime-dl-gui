@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="anime-dl-gui.exe" version="1.0.0.0" publicKeyToken="3ec0a161960ef161" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="anime-dl-gui" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="anime-dl-gui.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="anime-dl-gui.exe" size="15840">
+      <assemblyIdentity name="anime-dl-gui" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>BltdSUEahe5Sj/6TLeyHGFYMSQ/D0pIN83IZWlGk9DQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="anime-dl-gui.exe.config" size="1127">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1Z1JoGwGE0zkky6ajqBTmo6ERPz5AVi3YFC1+/Rcun0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on and is
+           is designed to work with. Uncomment the appropriate elements and Windows will 
+           automatically selected the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=ABU3SAFEER\Abu3safeer" issuerKeyHash="b8992392b182ae1a7a9ca1373e56d9e0bfc02ca0" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Pm6XQiCXs7b5mBSlsy2kDuHa9DBgF1KBjlNvsSLflCg=</DigestValue></Reference></SignedInfo><SignatureValue>WfeVaXZ+9mk3w/il9DoajNDcCfddiEpEZnSEpS8HpZuCU9jIcSsEtxITpv6C5IhtLoV5Qkjd66ima4YGsxfaIG+B6B+XlzJ+rJAGrBye5Od5hZzU3nc0LCPTTvIF8kHON99IgT/j2vLaXPwNR/JQzpJMxza5I7kdiEBMioYUu9Q=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>oZiqzl11ibnuCQeR9/fMH38X1NwJ/Qysi+INbIdBXssNCgipNI0p7HiHXo+0Uksndzf+rpEke7WtvnjFHEVL+SwXnGUkGdMkmdowCSmS/TFLqlOXo/m9i3WSMJJ0i0QMrm2n7Y7dvPVF5UZ4vyXanfMgoR1uM+y9a47fBxC6w50=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2894df22b16f538e8152176030f4dae10ea42db3a51498f9b6b3972042976e3e" Description="" Url=""><as:assemblyIdentity name="anime-dl-gui.exe" version="1.0.0.0" publicKeyToken="3ec0a161960ef161" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ABU3SAFEER\Abu3safeer</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>mG67cujqsNUBusIoEyDKdXu+dW9o8i7xwove+OJQ9HA=</DigestValue></Reference></SignedInfo><SignatureValue>VDcZgIiwQpX+AiGyVIPiHa6f3syQMxdOMhwJ5wykq9lGGWoX+9e7id/NbD+qH32mNkBehZ36HJIgq5bYHp9K6CQEGD8CBH4nYKHvnYvhYl5Y1mi1DEiolt/cvzUwirk8VP/WEGPKlcX6xtoFUbJM+gjzrCZV9ifWCWX9YWNA8hw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oZiqzl11ibnuCQeR9/fMH38X1NwJ/Qysi+INbIdBXssNCgipNI0p7HiHXo+0Uksndzf+rpEke7WtvnjFHEVL+SwXnGUkGdMkmdowCSmS/TFLqlOXo/m9i3WSMJJ0i0QMrm2n7Y7dvPVF5UZ4vyXanfMgoR1uM+y9a47fBxC6w50=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQHO5UZe+Y9rRPMYQ8x8dn2jANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioAQQBCAFUAMwBTAEEARgBFAEUAUgBcAEEAYgB1ADMAcwBhAGYAZQBlAHIwHhcNMTgwNTA0MDEzMjI4WhcNMTkwNTA0MDczMjI4WjA1MTMwMQYDVQQDHioAQQBCAFUAMwBTAEEARgBFAEUAUgBcAEEAYgB1ADMAcwBhAGYAZQBlAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKGYqs5ddYm57gkHkff3zB9/F9TcCf0MrIviDWyHQV7LDQoIqTSNKex4h16PtFJLJ3c3/q6RJHu1rb54xRxFS/ksF5xlJBnTJJnaMAkpkv0xS6pTl6P5vYt1kjCSdItEDK5tp+2O3bz1ReVGeL8l2p3zIKEdbjPsvWuO3wcQusOdAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAYvW+3wWrk2hAq7lqIzoJRiLqE9+qMr+SXKlQCVm+E/fJzzt6EZfGb+i7dGyDoeQ5u14PqL8H8f+IBwiw394xz08GUkqShYDFc+tJXpCv+pbnBL7jn8OTP0zGLA6g2JqUXF6qxaOpTx9QzmZZT5ehAu3IpFnsxRq39yP18nlQ+6s=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

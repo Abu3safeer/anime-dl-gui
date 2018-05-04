@@ -1,0 +1,15 @@
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\bin\Debug\anime-dl-gui.exe.config
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\bin\Debug\anime-dl-gui.exe
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\bin\Debug\anime-dl-gui.pdb
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Debug\anime-dl-gui.csprojResolveAssemblyReference.cache
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Debug\anime_dl_gui.MainForm.resources
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Debug\anime_dl_gui.Properties.Resources.resources
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Debug\anime-dl-gui.csproj.GenerateResource.Cache
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Debug\anime-dl-gui.csproj.CoreCompileInputs.cache
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Debug\anime-dl-gui.exe
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Debug\anime-dl-gui.pdb
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\bin\Debug\anime-dl-gui.exe.manifest
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\bin\Debug\anime-dl-gui.application
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Debug\anime-dl-gui.TrustInfo.xml
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Debug\anime-dl-gui.exe.manifest
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Debug\anime-dl-gui.application

@@ -1,0 +1,9 @@
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\bin\Release\anime-dl-gui.exe.config
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\bin\Release\anime-dl-gui.exe
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\bin\Release\anime-dl-gui.pdb
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Release\anime_dl_gui.MainForm.resources
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Release\anime_dl_gui.Properties.Resources.resources
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Release\anime-dl-gui.csproj.GenerateResource.cache
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Release\anime-dl-gui.csproj.CoreCompileInputs.cache
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Release\anime-dl-gui.exe
+C:\Users\Abu3safeer\source\repos\anime-dl-gui\anime-dl-gui\obj\Release\anime-dl-gui.pdb
